@@ -1,0 +1,241 @@
+body {
+  margin: 0;
+  background-image: url("https://images.unsplash.com/photo-1475965894430-b05c9d13568a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80")
+}
+
+.About {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  padding: 10px;
+  border: 5px solid #C0C0C0;
+  background-color: #f5f5dc;
+  Height: Auto;
+  Padding-Top: 50px;
+  Padding-Bottom: 60px;
+  Margin-Top: 80px;
+  Margin-Bottom: 80px;
+}
+
+.Photo {
+  Max-Height: 300px;
+  Display: Block;
+  Margin: auto;
+  Margin-Top: 50px;
+  Border-Radius: 50%;
+}
+
+.h11 {
+  Font-Size: 80px;
+  Font-Family: 'Poiret One', cursive;
+  Text-Align: center;
+}
+
+.p1 {
+  Font-Size: 24px;
+  Font-Family: 'Josefin Sans', sans-serif;
+  Text-Align: Center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5.625rem;
+  margin: 100px auto 0 auto;
+}
+
+h2 {
+  font-weight: normal;
+  font-family: 'Syne', sans-serif;
+  font-size: 2.1rem;
+}
+
+.hr1 {
+  height: 10px;
+  background-color: #6e7582;
+  border: none;
+}
+
+.top-container {
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  padding: 50px;
+  margin-block-end: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+}
+
+.h22 {
+  padding: 10px;
+  Font-Size: 60px;
+  Font-Family: 'Poiret One', cursive;
+  Text-Align: center;
+  margin: auto;
+}
+
+.SKILL_LOGO {
+  border: 5px solid #C0C0C0;
+  border-radius: 25px;
+  Margin-Top: 25px;
+  height: 300px;
+  margin-left: 530px;
+  margin-right: auto;
+}
+
+/* Container for skill bars */
+.container {
+  width: 100%;
+  /* Full width */
+  background-color: #ddd;
+  /* Grey background */
+}
+
+.Class {
+  margin-left: 20px;
+  font-family: 'Syne', sans-serif;
+}
+
+.skills {
+  text-align: center;
+  /* Right-align text */
+  font-family: 'Syne', sans-serif;
+  padding-top: 10px;
+  /* Add top padding */
+  padding-bottom: 10px;
+  /* Add bottom padding */
+  color: white;
+  /* White text color */
+}
+
+.html {
+  width: 70%;
+  background-color: #04AA6D;
+}
+
+/* Green */
+.css {
+  width: 80%;
+  background-color: #2196F3;
+}
+
+/* Blue */
+.js {
+  width: 80%;
+  background-color: #f44336;
+}
+
+/* Red */
+.php {
+  width: 80%;
+  background-color: #808080;
+}
+
+/* Dark Grey */
+.skill-row {
+  width: 50%;
+}
+
+
+
+
+.Project_Logo{
+  border: 5px solid #C0C0C0;
+  border-radius: 25px;
+  Margin-Top: 25px;
+  height: 300px;
+  margin-left: 495px;
+  margin-right: auto;
+
+
+}
+
+.Projects{
+
+text-align: left;
+line-height: 2;
+
+}
+
+
+.htmls{
+  text-align: center;
+}
+
+
+.section {
+
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+form {
+    text-align: center;
+    margin-top: 0;
+}
+
+.submit {
+    background-color: #3fb6b2;
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    margin: 0;
+    font-weight: bold;
+}
+
+.submit:hover {
+    background-color: #43a09d;
+}
+textarea {
+    height: 100px;
+}
+input, textarea {
+    margin-bottom: 10px;
+    font-size: 11pt;
+    padding: 15px 10px 10px;
+    border: 1px solid #cecece;
+    background-color: #efefef;
+    color: #787575;
+    border-radius: 5px;
+    width: 70%;
+    outline: none;
+}
+.face {
+    transform: scale(0.4);
+    margin: 0 auto;
+    display: block;
+    margin-top: -35px;
+    margin-bottom: -25px;
+}
+
+#contacts img {
+    height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#contacts a {
+    text-decoration: none;
+}
+#contacts img:hover {
+    opacity: 0.8;
+}
+#contacts {
+    text-align: center;
+}
+.copyright {
+    font-size: 8pt;
+    text-align: right;
+    padding-bottom: 10px;
+    color: grey;
+}
